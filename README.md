@@ -1,1 +1,6 @@
 # responsive-portfolio
+
+In this homework we had to use Bootstrap CSS Framework to create a mobile responsive portfolio and create an index.html, portfolio.html and contact.html file. 
+
+
+This was a very fun and challenging homework. Creating the webpages through bootstrap made it easier but it also came with its own set of problems. I tried to inspect my pages but I cannot tell if the navigation links in the navbar change into a button for a small screen. Through a lot of trial and error I managed to fix my footer and set the position to the bottom of the page and to span across the entire page. I realized that if you want an element to go "left" you have to code it "right" in a sense. I had difficulty getting my portfolio pictures to be in the correct rows and columns. I realized that I did not close the tags correctly and did not indent correctly in the format. It was easier to get the basic format of a page first, before adding pictures or forms. Once I had the navbar and footer in all the pages, it was simple to plan out how I wanted the webpage to look and how I should format it using Bootstrap's grid system.
