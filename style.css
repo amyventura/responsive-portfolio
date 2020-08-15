@@ -1,0 +1,46 @@
+container {
+    padding:10px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+a:visited {
+    color: #FFEBCD;
+}
+
+.display-4 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #008B8B;
+    margin-top: 5%;
+}
+
+
+.media {
+    margin-top: 5%;
+    width: 100%;
+    max-width: 400px
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contact {
+    border: 5px, solid, #008B8B;
+}
+
+.img-thumbnail {
+    height: 50%;
+    width: auto;
+    box-sizing: border-box;
+}
+
+.footer {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: smaller;
+}
